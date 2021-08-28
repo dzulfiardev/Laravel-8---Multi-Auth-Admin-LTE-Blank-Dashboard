@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-sm-9">
                       <div class="custom-file">
-                        <input type="file" name="image" class="custom-file-input" id="uploadImage">
+                        <input type="file" name="image" class="custom-file-input" id="uploadImage" style="cursor:pointer">
                         <label id="uploadImageLabel" class="custom-file-label" for="uploadImage">Choose file</label>
                       </div>
                       <small id="errorUpload" class="text-danger"></small>
