@@ -22,6 +22,6 @@ Second instalation on terminal:
     3. php artisan migrate
     4. php artisan db:seed
     
-Finally :
+Final :
 
     php artisan serve
